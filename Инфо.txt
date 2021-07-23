@@ -1,2 +1,0 @@
-Тетрадь (iPhyton notebook) для видео "Циклы, функции, генераторы, list comprehension" в курсе отсутствует.
-Я создал тетрадь "cycles_functions_etc.ipynb".
