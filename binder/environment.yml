@@ -2,7 +2,8 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy 1.21.0
+  - numpy
   - matplotlib
   - pandas
-  - scipy 1.6.3
+  - scipy
+  - seaborn
